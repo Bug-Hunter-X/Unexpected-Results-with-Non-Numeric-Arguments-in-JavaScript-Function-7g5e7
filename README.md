@@ -1,0 +1,2 @@
+# Unexpected Results with Non-Numeric Arguments in JavaScript Function
+This repository demonstrates a common JavaScript error where a function produces unexpected results if it receives non-numeric arguments. The function `foo` adds two numbers. However, it does not handle the cases where the arguments are not numbers, resulting in incorrect results or runtime errors. The solution adds input validation to handle non-numeric arguments appropriately.
